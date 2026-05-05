@@ -55,11 +55,11 @@ BANDWIDTH_BREAKDOWN_DATA = {
     "weight_pull": {
         "deepseek": {
             "sdma": 109.0,
-            "mte": 103.0,
+            "mte": 106.0,
         },
         "qwen": {
             "sdma": 110.0,
-            "mte": 105.0,
+            "mte": 108.0,
         },
     },
     "kvcache_transfer": {
